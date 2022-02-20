@@ -1,0 +1,21 @@
+﻿  array_stack.cpp
+C:\Users\Elias\Documents\GitHub\Ball-Sort-Puzzle\BallPuzzle\BallPuzzle\array_stack.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  LinkedList.cpp
+C:\Users\Elias\Documents\GitHub\Ball-Sort-Puzzle\BallPuzzle\BallPuzzle\array_stack.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+C:\Users\Elias\Documents\GitHub\Ball-Sort-Puzzle\BallPuzzle\BallPuzzle\main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Elias\Documents\GitHub\Ball-Sort-Puzzle\BallPuzzle\BallPuzzle\main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Elias\Documents\GitHub\Ball-Sort-Puzzle\BallPuzzle\BallPuzzle\array_stack.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  _Level.cpp
+C:\Users\Elias\Documents\GitHub\Ball-Sort-Puzzle\BallPuzzle\BallPuzzle\_Level.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Options.cpp
+C:\Users\Elias\Documents\GitHub\Ball-Sort-Puzzle\BallPuzzle\BallPuzzle\Options.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  SaveGame.cpp
+C:\Users\Elias\Documents\GitHub\Ball-Sort-Puzzle\BallPuzzle\BallPuzzle\Queue.h(8,2): warning C4091: 'extern ': ignored on left of 'Queue' when no variable is declared
+C:\Users\Elias\Documents\GitHub\Ball-Sort-Puzzle\BallPuzzle\BallPuzzle\SaveGame.h(6,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  space_stack.cpp
+C:\Users\Elias\Documents\GitHub\Ball-Sort-Puzzle\BallPuzzle\BallPuzzle\space_stack.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  stack.cpp
+C:\Users\Elias\Documents\GitHub\Ball-Sort-Puzzle\BallPuzzle\BallPuzzle\array_stack.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  _Main.cpp
+C:\Users\Elias\Documents\GitHub\Ball-Sort-Puzzle\BallPuzzle\BallPuzzle\_Main.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
